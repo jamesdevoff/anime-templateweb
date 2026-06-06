@@ -1,0 +1,6 @@
+{
+  "name": "James Portal",
+  "description": "A modern SaaS portfolio featuring a responsive dark mode layout and glitch loading sequence",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
